@@ -1,0 +1,1 @@
+v0.3 ajout d'une base de donnée d'entrainement unique
